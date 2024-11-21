@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-MYPRIZEMYDREAM/MYPRIZEMYDREAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MYPRIZEMYDREAM/MYPRIZEMYDREAM is a ✨ special ✨ repository because its `WRITEME.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48#F2
